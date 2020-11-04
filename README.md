@@ -7,4 +7,4 @@
 需要支持aufs文件系统，如果不支持要安装插件  
 每个目录都对应原书中的章节，如 /3.1/mydocker  
 在/3.1/mydocker下，运行go build .进行编译  
-busybox.rar放到/root/busybox.rar  
+busybox.tar放到/root/busybox.tar  
